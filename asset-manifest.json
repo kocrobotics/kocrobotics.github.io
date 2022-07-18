@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a61004e.css",
+    "main.js": "/static/js/main.00b02916.js",
+    "static/js/787.3e2ddb19.chunk.js": "/static/js/787.3e2ddb19.chunk.js",
+    "static/media/tarla(1).png": "/static/media/tarla(1).8e78fc6f360a85a3e9e3.png",
+    "static/media/ecorob.png": "/static/media/ecorob.05c239f1116b675360fa.png",
+    "static/media/ulutek_logo.png": "/static/media/ulutek_logo.90b64bffc872b4948772.png",
+    "static/media/oddbot.jpg": "/static/media/oddbot.4ee9e303c4c14079a2a8.jpg",
+    "static/media/ulutek.jpg": "/static/media/ulutek.9c53d756bf18d7d61f4c.jpg",
+    "static/media/kocrobotics_logo.jpeg": "/static/media/kocrobotics_logo.a5aa0bcf1d2d3c678c01.jpeg",
+    "static/media/embedded.jpeg": "/static/media/embedded.aa78f4ec64e179e6123c.jpeg",
+    "static/media/mars_robot.jpg": "/static/media/mars_robot.0af90776e493f651672a.jpg",
+    "static/media/tarla2.jpg": "/static/media/tarla2.b1e4648badf9ec6ff9c0.jpg",
+    "static/media/deep_learning.jpg": "/static/media/deep_learning.e5138ac4ecda1624876d.jpg",
+    "static/media/weedbot.jpg": "/static/media/weedbot.e14e24e210ae2c834a9a.jpg",
+    "static/media/stm32.jpg": "/static/media/stm32.9d2ab1584ac2852431f1.jpg",
+    "static/media/Embedded-Systems.jpg": "/static/media/Embedded-Systems.45f6ae2c7d697809e2f2.jpg",
+    "static/media/ros-logo.jpg": "/static/media/ros-logo.764a5ce5ef4606e59a89.jpg",
+    "static/media/tensor.jpeg": "/static/media/tensor.8643b22c4d1fb20f1ebb.jpeg",
+    "static/media/mail.png": "/static/media/mail.ac863c4a1efc2b9026dd.png",
+    "static/media/kosgeb-logo.jpg": "/static/media/kosgeb-logo.e2b42f25c919141f8885.jpg",
+    "static/media/bullet_icon.jpg": "/static/media/bullet_icon.a04eb6f29f1bc8e74596.jpg",
+    "static/media/address.png": "/static/media/address.4906495685f572af99d3.png",
+    "static/media/OpenCV-logo.jpg": "/static/media/OpenCV-logo.a6a08993c067425973b8.jpg",
+    "static/media/tel.png": "/static/media/tel.2d58567ebded434744a5.png",
+    "static/media/logo03.png": "/static/media/logo03.435d4c4e0ed1297addcf.png",
+    "index.html": "/index.html",
+    "main.7a61004e.css.map": "/static/css/main.7a61004e.css.map",
+    "main.00b02916.js.map": "/static/js/main.00b02916.js.map",
+    "787.3e2ddb19.chunk.js.map": "/static/js/787.3e2ddb19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a61004e.css",
+    "static/js/main.00b02916.js"
+  ]
+}
